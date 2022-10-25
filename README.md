@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjieunaa)](https://github.com/jjieunaa/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjieunaa)](https://github.com/jjieunaa/github-readme-stats)
