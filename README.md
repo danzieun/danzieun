@@ -5,13 +5,13 @@
 항상 사용자 입장에서 먼저 생각하는 신입 백엔드 개발자 이지은입니다.
 </h3>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h2 align="center">🌈 Follow Me 🌈</h2>
 <p align="center">
   <a href="https://velog.io/@danzieun"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@danzieun"/></a>&nbsp
   <a href="mailto:jieun3744@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jieun3744@gmail.com"/></a>
 </p>
 
-<h3 align="center">⚒️ Tech Stack ⚒️</h3>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjieunaa)](https://github.com/jjieunaa/github-readme-stats)
