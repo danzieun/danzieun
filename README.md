@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jieun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center">
-안녕하세요👋
+안녕하세요👋 <br />
 항상 사용자 입장에서 먼저 생각하는 신입 백엔드 개발자 이지은입니다.
 </h3>
 
