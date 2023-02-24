@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jieun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<h3 align="center">
+안녕하세요👋
+항상 사용자 입장에서 먼저 생각하는 신입 백엔드 개발자 이지은입니다.
+</h3>
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@danzieun"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@danzieun"/></a>&nbsp
