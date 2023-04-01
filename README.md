@@ -7,7 +7,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@danzieun"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@danzieun"/></a>&nbsp
+  <a href="https://danzieun.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@danzieun"/></a>&nbsp
   <a href="mailto:jieun3744@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jieun3744@gmail.com"/></a>
 </p>
 
